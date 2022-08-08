@@ -1,0 +1,51 @@
+*{
+  background-color: #bbb;
+}
+.result {
+  height: 100px;
+  background-color: white;
+  width: 50px;
+
+}
+h3{
+  background-color: white;
+}
+  .btn{
+  position: fixed;
+
+  width: 150px;
+  margin-left: 300px;
+  margin-bottom: 100px;
+}
+.result p {
+  font-size: 40px;
+  margin: 5px;
+  background-color:white;
+  
+
+}
+
+.calculator-body {
+  max-width: 600px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+  background-color: white;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+  background-color: blue;
+  border-color: white;
+}
+.calculator-body{
+  border:10px;
+  background-color: white;
+  width: 1500px;
+  height: 400px;
+  text-align: center;
+}
